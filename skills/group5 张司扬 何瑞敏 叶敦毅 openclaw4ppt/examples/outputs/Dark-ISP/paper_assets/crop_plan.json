@@ -1,0 +1,127 @@
+{
+  "pdf": "DinoRADE.pdf",
+  "dpi": 300,
+  "page_size_px": [
+    2550,
+    3300
+  ],
+  "items": [
+    {
+      "page": 4,
+      "name": "dino_fig_overview",
+      "type": "figure",
+      "box": [
+        0.0196078431372549,
+        0.014242424242424242,
+        0.9803921568627451,
+        0.7606060606060606
+      ],
+      "caption": "Figure 1. Overview of the DinoRADE architecture.",
+      "priority": "A"
+    },
+    {
+      "page": 4,
+      "name": "dino_fig_refpoints",
+      "type": "figure",
+      "box": [
+        0.0196078431372549,
+        0.014242424242424242,
+        0.49019607843137253,
+        0.7606060606060606
+      ],
+      "caption": "Figure 2. Reference points projected from 3D Radar queries to\ncamera image (red)",
+      "priority": "B"
+    },
+    {
+      "page": 6,
+      "name": "dino_figure_fig1",
+      "type": "figure",
+      "box": [
+        0.0196078431372549,
+        0.014242424242424242,
+        0.9803921568627451,
+        0.6887878787878788
+      ],
+      "caption": "Figure 3. DinoRADE performance visualization in four different scenarios: (a) un",
+      "priority": "B"
+    },
+    {
+      "page": 6,
+      "name": "dino_table_tab1",
+      "type": "table",
+      "box": [
+        0.0196078431372549,
+        0.014242424242424242,
+        0.9803921568627451,
+        0.6887878787878788
+      ],
+      "caption": "Table 1. 3D Average Precision (AP) comparison on Sedan class in all weather cond",
+      "priority": "B"
+    },
+    {
+      "page": 7,
+      "name": "dino_table_tab2",
+      "type": "table",
+      "box": [
+        0.0196078431372549,
+        0.014242424242424242,
+        0.9803921568627451,
+        0.37303030303030305
+      ],
+      "caption": "Table 2. AP and mAP (Total) evaluation of all road users in all weather conditio",
+      "priority": "B"
+    },
+    {
+      "page": 7,
+      "name": "dino_fig_overview",
+      "type": "table",
+      "box": [
+        0.0196078431372549,
+        0.014242424242424242,
+        0.9803921568627451,
+        0.6912121212121212
+      ],
+      "caption": "Table 3. AP and mAP (Total) comparison with Radar-Camera and Radar-only methods ",
+      "priority": "A"
+    },
+    {
+      "page": 7,
+      "name": "dino_table_tab3",
+      "type": "table",
+      "box": [
+        0.49019607843137253,
+        0.014242424242424242,
+        0.9803921568627451,
+        0.906969696969697
+      ],
+      "caption": "In Table 4 we demonstrate the performance of different\nmodule configurations usi",
+      "priority": "B"
+    },
+    {
+      "page": 8,
+      "name": "dino_figure_fig2",
+      "type": "figure",
+      "box": [
+        0.0196078431372549,
+        0.014545454545454545,
+        0.49019607843137253,
+        0.43303030303030304
+      ],
+      "caption": "Figure 4. Examples for partially occluded (1), heavily occluded\n(2), and fully o",
+      "priority": "B"
+    },
+    {
+      "page": 8,
+      "name": "dino_tab_ablation",
+      "type": "table",
+      "box": [
+        0.0196078431372549,
+        0.014545454545454545,
+        0.49019607843137253,
+        0.6439393939393939
+      ],
+      "caption": "Table 4. Ablation Study",
+      "priority": "B"
+    }
+  ]
+}

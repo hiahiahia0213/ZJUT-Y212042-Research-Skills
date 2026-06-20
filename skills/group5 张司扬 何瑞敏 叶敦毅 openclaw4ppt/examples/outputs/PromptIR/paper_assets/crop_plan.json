@@ -1,0 +1,190 @@
+{
+  "pdf": "PromptIR.pdf",
+  "dpi": 300,
+  "page_size_px": [
+    2550,
+    3300
+  ],
+  "items": [
+    {
+      "name": "fig1_approach",
+      "page": 2,
+      "box_px": [
+        60,
+        200,
+        2490,
+        1140
+      ],
+      "box_norm": [
+        0.0235,
+        0.0606,
+        0.9765,
+        0.3455
+      ],
+      "type": "figure",
+      "desc": "Fig.1: PromptIR plug-and-play prompt module overview"
+    },
+    {
+      "name": "fig3_architecture",
+      "page": 4,
+      "box_px": [
+        60,
+        280,
+        2490,
+        1130
+      ],
+      "box_norm": [
+        0.0235,
+        0.0848,
+        0.9765,
+        0.3424
+      ],
+      "type": "figure",
+      "desc": "Fig.3: PromptIR UNet+Transformer+Prompt framework"
+    },
+    {
+      "name": "tab1_allinone",
+      "page": 6,
+      "box_px": [
+        60,
+        300,
+        2490,
+        1050
+      ],
+      "box_norm": [
+        0.0235,
+        0.0909,
+        0.9765,
+        0.3182
+      ],
+      "type": "table",
+      "desc": "Table 1: All-in-One restoration (denoising+deraining+dehazing)"
+    },
+    {
+      "name": "fig4_dehazing",
+      "page": 6,
+      "box_px": [
+        60,
+        1550,
+        2490,
+        2600
+      ],
+      "box_norm": [
+        0.0235,
+        0.4697,
+        0.9765,
+        0.7879
+      ],
+      "type": "visual",
+      "desc": "Fig.4: Dehazing visual comparisons on SOTS dataset"
+    },
+    {
+      "name": "fig5_deraining",
+      "page": 7,
+      "box_px": [
+        60,
+        900,
+        2490,
+        1870
+      ],
+      "box_norm": [
+        0.0235,
+        0.2727,
+        0.9765,
+        0.5667
+      ],
+      "type": "visual",
+      "desc": "Fig.5: Deraining visual comparisons on Rain100L"
+    },
+    {
+      "name": "fig6_denoising",
+      "page": 7,
+      "box_px": [
+        60,
+        1800,
+        2490,
+        2800
+      ],
+      "box_norm": [
+        0.0235,
+        0.5455,
+        0.9765,
+        0.8485
+      ],
+      "type": "visual",
+      "desc": "Fig.6: Denoising visual comparisons on BSD68+Urban100"
+    },
+    {
+      "name": "tab2_dehazing_single",
+      "page": 8,
+      "box_px": [
+        60,
+        300,
+        2490,
+        670
+      ],
+      "box_norm": [
+        0.0235,
+        0.0909,
+        0.9765,
+        0.203
+      ],
+      "type": "table",
+      "desc": "Table 2: Dehazing single-task on SOTS"
+    },
+    {
+      "name": "tab3_deraining_single",
+      "page": 8,
+      "box_px": [
+        60,
+        620,
+        2490,
+        1000
+      ],
+      "box_norm": [
+        0.0235,
+        0.1879,
+        0.9765,
+        0.303
+      ],
+      "type": "table",
+      "desc": "Table 3: Deraining single-task on Rain100L"
+    },
+    {
+      "name": "tab4_denoising_single",
+      "page": 8,
+      "box_px": [
+        60,
+        950,
+        2490,
+        1350
+      ],
+      "box_norm": [
+        0.0235,
+        0.2879,
+        0.9765,
+        0.4091
+      ],
+      "type": "table",
+      "desc": "Table 4: Denoising single-task on BSD68+Urban100"
+    },
+    {
+      "name": "tab5_pgm_ablation",
+      "page": 9,
+      "box_px": [
+        60,
+        300,
+        1250,
+        1050
+      ],
+      "box_norm": [
+        0.0235,
+        0.0909,
+        0.4902,
+        0.3182
+      ],
+      "type": "table",
+      "desc": "Table 5: PGM impact ablation"
+    }
+  ]
+}
